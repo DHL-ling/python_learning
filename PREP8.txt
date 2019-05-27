@@ -1,0 +1,12 @@
+192:~ alin$ pip3 install autopep8
+Collecting autopep8
+  Downloading https://files.pythonhosted.org/packages/45/f3/24b437da561b6af4840c871fbbda32889ca304fc1f7b6cc3ada8b09f394a/autopep8-1.4.4.tar.gz (114kB)
+    100% |████████████████████████████████| 122kB 11kB/s
+Collecting pycodestyle>=2.4.0 (from autopep8)
+  Downloading https://files.pythonhosted.org/packages/0e/0c/04a353e104d2f324f8ee5f4b32012618c1c86dd79e52a433b64fceed511b/pycodestyle-2.5.0-py2.py3-none-any.whl (51kB)
+    100% |████████████████████████████████| 51kB 6.0kB/s
+Installing collected packages: pycodestyle, autopep8
+  Running setup.py install for autopep8 ... done
+Successfully installed autopep8-1.4.4 pycodestyle-2.5.0
+You are using pip version 19.0.3, however version 19.1.1 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
